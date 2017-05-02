@@ -1,4 +1,4 @@
-# Project Networks@Scale INF/UFRGS - site
+# Project GT-IPÊ Analytics - site
 
 Meaning of each folder in project:
 
