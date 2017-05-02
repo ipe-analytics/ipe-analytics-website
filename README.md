@@ -1,4 +1,4 @@
-# Project GT-IPÊ Analytics - site
+# Project GT-IPÊ Analytics - website
 
 Meaning of each folder in project:
 
