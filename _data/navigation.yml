@@ -1,0 +1,37 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Projeto"
+  url: "/projeto/"
+  side: left
+
+- title: "Equipe"
+  url: "/equipe/"
+  side: left
+
+- title: "Pesquisa"
+  url: "/pesquisa/"
+  side: left
+
+- title: "Recursos"
+  url: "/pesquisa/"
+  side: left
+
+
+#
+#   Navigation to the right › side: right
+#
+- title: Blog
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "Arquivo Blog"
+    url: "/blog/archive/"
+
+- title: "Contato"
+  url: "/contact/"
+  side: right

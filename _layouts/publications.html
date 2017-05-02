@@ -1,0 +1,31 @@
+---
+layout: page
+format: blog-index
+---
+<h2 class="font-size-h3 t10">Conferences</h2>
+<div class="row">
+    <ul>
+      {% for conf_item in site.data.publications %}
+        <li>
+          <b>{{ conf_item.title }}</b> ({{ conf_item.year }}) <br>
+          {{ conf_item.authors }}<br>
+          {{ conf_item.published_at }}
+          <a href="{{ conf_item.url }}" target="_blank" title="{{ conf_item.title }}">{{ conf_item.url }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
+
+<h2 class="font-size-h3 t10">Keynotes & talks</h2>
+<div class="row">
+    <ul>
+      {% for talk_item in site.data.keynotes-talks %}
+        <li>
+          <b>{{ talk_item.title }}</b> ({{ talk_item.year }}) <br>
+          {{ talk_item.authors }}<br>
+          {{ talk_item.published_at }}
+          <a href="{{ talk_item.url }}" target="_blank" title="{{ talk_item.title }}">{{ talk_item.url }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>

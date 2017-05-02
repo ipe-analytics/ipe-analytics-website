@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 23 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000//404.html</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//blog/archive/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//atom.xml</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//brazil_connectivity/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//contact/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//dinamix/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//feed.xml</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//harmony/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//humans.txt</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//hybrid_coop_cp/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//blog/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//people/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//publications/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//redirect-page/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//robots.txt</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//search/</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//sitemap.xml</loc>
+	
+		<lastmod>2017-05-02T01:57:37-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+
+<!-- Posts: 3 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000//measurement/open-announce-brazil-study/</loc>
+	
+		<lastmod>2016-12-11T00:00:00-02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//conferences/conext2016-presentation/</loc>
+	
+		<lastmod>2016-12-10T00:00:00-02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000//measurement/ixforum-cgi-presentation/</loc>
+	
+		<lastmod>2016-12-08T00:00:00-02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>

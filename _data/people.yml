@@ -1,0 +1,23 @@
+- name: "Marinho Pilla Barcellos (aka BARCELLOS, M. P.)"
+  role: "Associate Professor at INF/UFRGS"
+  url: http://www.inf.ufrgs.br/~marinho/
+  email: marinho@inf.ufrgs.br
+  photo_url: https://graph.facebook.com/664325137/picture?width=120&height=120
+
+- name: "Lucas Fernando Muller (aka MULLER, L. F.)"
+  role: "Ph.D. student"
+  url: http://inf.ufrgs.br/~lfmuller/
+  email: lfmuller@inf.ufrgs.br
+  photo_url: https://graph.facebook.com/100004090059936/picture?width=120&height=120
+
+- name: "Rodrigo Ruas Oliveira (aka OLIVEIRA, R. R.)"
+  role: "Ph.D. student"
+  url: http://inf.ufrgs.br/~ruasoliveira/
+  email: ruas.oliveira@inf.ufrgs.br
+  photo_url: https://graph.facebook.com/1235319581/picture?width=120&height=120
+
+- name: "Pedro Botelho de Marcos (aka MARCOS, P. B.)"
+  role: "Ph.D. student"
+  url: http://inf.ufrgs.br/~pbmarcos/
+  email: pbmarcos@inf.ufrgs.br
+  photo_url: https://graph.facebook.com/100002895439121/picture?width=120&height=120

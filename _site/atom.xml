@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000//</id>
+	<title>IPÊ Analytics</title>
+	<updated>2017-05-02T01:57:37-03:00</updated>
+
+	<subtitle>IPÊ Analytics, transformando dados brutos de monitoramento para gerar informações valiosas ao gerenciamento da rede.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Lucas F. Muller</name>
+			
+			
+				<email>lfmuller@inf.ufrgs.br</email>
+			
+			
+				<uri>http://inf.ufrgs.br/~lfmuller/</uri>
+			
+		</author>
+	
+
+	<link href="http://localhost:4000//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000//" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000//measurement/open-announce-brazil-study/</id>
+			<title>Characterizing Brazil’s Connectivity</title>
+			<link href="http://localhost:4000//measurement/open-announce-brazil-study/" rel="alternate" type="text/html" title="Characterizing Brazil’s Connectivity" />
+			<updated>2016-12-11T00:00:00-02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Lucas F. Muller</name>
+					
+					
+						<email>lfmuller@inf.ufrgs.br</email>
+					
+					
+						<uri>http://inf.ufrgs.br/~lfmuller/</uri>
+					
+				</author>
+			
+			<summary>Muller, L. et al. lead a large scale study of the entire ecosystem of IXPs in Brazil going towards ASs level information.</summary>
+			<content type="html" xml:base="http://localhost:4000//measurement/open-announce-brazil-study/">&lt;p&gt;The peering ecosystem of Brazil (IX.br) has his own characteristics when analyzed in perspective to regions like the United States and Europe. The IX.br has become worldwide the largest national set of public Internet eXchange Points (IXP) and shows a growing number of internationally connected Autonomous Systems (AS). Despite its considerable success, we have little understanding of its deployments and performance. Motivated by recent developments in connectivity to the country and the growing commercial interest from Internet Service Providers (ISPs) and Application Providers (App Providers) to interconnect, we profile Brazil’s network starting from the IXPs going towards ASs level information. Through extensive measurements, we reveal Brazil’s footprint, its traffic patterns, volumes, external connections, and the treatment given to international traffic going to and from the country. This study is a fundamental part of our project Networks@Scale which includes IXPs, ISPs, app providers and the end-users, exposing the dynamic aspects and evolution of Internet online service delivery chain ecosystem.&lt;/p&gt;
+</content>
+
+			
+				<category term="Measurement" />
+			
+			
+				<category term="brazil" />
+			
+
+			<published>2016-12-11T00:00:00-02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000//conferences/conext2016-presentation/</id>
+			<title>INF/UFRGS sends two students to the CoNEXT 2016 Conference</title>
+			<link href="http://localhost:4000//conferences/conext2016-presentation/" rel="alternate" type="text/html" title="INF/UFRGS sends two students to the CoNEXT 2016 Conference" />
+			<updated>2016-12-10T00:00:00-02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Lucas F. Muller</name>
+					
+					
+						<email>lfmuller@inf.ufrgs.br</email>
+					
+					
+						<uri>http://inf.ufrgs.br/~lfmuller/</uri>
+					
+				</author>
+			
+			<summary>Students to present new papers at the conference.</summary>
+			<content type="html" xml:base="http://localhost:4000//conferences/conext2016-presentation/">&lt;p&gt;INF/UFRGS researchers Oliveira R. and Marcos, P. will present two new papers at the Student
+Workshop of the ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT) at Irvine, CA, USA.
+ACM CoNEXT is one of the top conferences in networking.&lt;/p&gt;
+</content>
+
+			
+				<category term="Conferences" />
+			
+			
+				<category term="conext" />
+			
+
+			<published>2016-12-10T00:00:00-02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000//measurement/ixforum-cgi-presentation/</id>
+			<title>Coverage Analysis at IXPs in Brazil</title>
+			<link href="http://localhost:4000//measurement/ixforum-cgi-presentation/" rel="alternate" type="text/html" title="Coverage Analysis at IXPs in Brazil" />
+			<updated>2016-12-08T00:00:00-02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Lucas F. Muller</name>
+					
+					
+						<email>lfmuller@inf.ufrgs.br</email>
+					
+					
+						<uri>http://inf.ufrgs.br/~lfmuller/</uri>
+					
+				</author>
+			
+			<summary>Muller, L. gave a IX Forum presentation about the ongoing study of the entire ecosystem of IXPs in Brazil. This was during the 6th Brazilian Internet Infrastructure Week, where CGI.br and NIC.br host important events that discuss issues directly connected to the Internet infrastructure in Brazil.</summary>
+			<content type="html" xml:base="http://localhost:4000//measurement/ixforum-cgi-presentation/"></content>
+
+			
+				<category term="Measurement" />
+			
+			
+				<category term="brazil" />
+			
+				<category term="ixforum" />
+			
+				<category term="CGI.br" />
+			
+
+			<published>2016-12-08T00:00:00-02:00</published>
+		</entry>
+	
+</feed>

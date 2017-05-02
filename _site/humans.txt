@@ -1,0 +1,19 @@
+/* TEAM */
+
+Name: Lucas F. Muller
+Site: http://inf.ufrgs.br/~lfmuller/
+Twitter: @lucasfmuller
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Role: Theme
+Twitter: @phlow
+
+/* SITE */
+
+Last Updated: 2017/05/02
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal

@@ -1,0 +1,173 @@
+#==============================================================================
+#  SITE SETTINGS
+#==============================================================================
+# Title of the website
+title: "IPÊ Analytics"
+
+
+# The slogan describes the website and is used on homepage in <title> and other important places
+slogan: "GT-IPÊ Analytics"
+
+
+# The description is used on homepage and in the footer to quickly describe the website. Use a maximum of 150 characters for SEO-purposes.
+description: "IPÊ Analytics, transformando dados brutos de monitoramento para gerar informações valiosas ao gerenciamento da rede."
+
+# Main author of the website
+# See > authors.yml
+author: lfmuller
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'https://ipe-analytics.github.io'
+baseurl: '/'
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: 'https://ipe-analytics.github.io/images/'
+
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+
+# Paginates all X entries
+paginate: 5
+
+
+# Pagination path › Important for blog page in /blog/ to work
+paginate_path: "blog/page:num"
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
+gems: [jekyll-paginate]
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: "pt-BR"
+
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+
+#==============================================================================
+#  DEFAULT SETTINGS
+#==============================================================================
+defaults:
+  -
+    scope:
+      path: "" 				# an empty string here means all files in the project
+      type: "pages"
+    values:
+      show_meta: false 	# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: lfmuller     # Default author for pages
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: lfmuller     # Default author for posts
+
+
+#==============================================================================
+#  NAVIGATION
+#==============================================================================
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+#
+
+#==============================================================================
+# SEO
+# Verify Website to Webmaster Tools
+#==============================================================================
+# google_author:             ""
+# google_site_verification:  ""
+# bing_webmastertools_id:    ""
+# alexa_verify_id:           ""
+
+#==============================================================================
+# FAVICONS
+# Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
+# More information » https://mathiasbynens.be/notes/touch-icons
+#==============================================================================
+favicon-32x32:                          "favicon-32x32.png"
+touch-icon-192x192:                     "touch-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+msapplication_tilecolor:                "#fabb00"
+
+
+#==============================================================================
+#  FACEBOOK
+# Facebook-Optimization › http://j.mp/fb_optimize
+#==============================================================================
+# og_image:                         ""
+# og_locale:                        "en_EN"
+# og_type:                          "website"
+# og_title:                         ""
+# og_description:                   ""
+# og_url:                           ""
+# og_site_name:                     ""
+
+
+#==============================================================================
+#  SOCIAL MEDIA
+#==============================================================================
+#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
+
+#==============================================================================
+#  DISQUS
+#==============================================================================
+# used in _includes/comments
+# disqus_shortname:
+
+#==============================================================================
+#  SASS
+# More › http://sass-lang.com/
+# More › http://jekyllrb.com/docs/assets/#sassscss
+#==============================================================================
+sass:
+    sass_dir: _sass
+    style: :compressed
+
+#==============================================================================
+#  ANALYTICS
+# https://www.google.com/analytics/
+# used in _includes/footer_scripts
+#==============================================================================
+#google_analytics_tracking_id: UA-88846917-1
