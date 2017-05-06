@@ -1,6 +1,11 @@
-- menu_name: "Projects Advisor"
+- menu_name: "Coordenadores"
 
 - name: "Prof. Marinho Pilla Barcellos"
   url: "http://inf.ufrgs.br/~marinho/"
   class: "network-entypo"
   title: "Prof. Marinho Pilla Barcellos"
+
+- name: "Profa. Renata Cruz Teixeira"
+  url: "https://who.rocq.inria.fr/Renata.Teixeira/"
+  class: "network-entypo"
+  title: "Prof. Renata Cruz Teixeira"

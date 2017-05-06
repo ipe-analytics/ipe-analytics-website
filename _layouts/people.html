@@ -3,12 +3,13 @@ layout: page
 format: blog-index
 ---
 <p>
-Networks@Scale is carried out in the Institute of Informatics of the Federal
-University of Rio Grande do Sul (UFRGS) and we collaborate closely with collegues from IX.br and CGI.br / NIC.br.
+IPÊ Analytics is carried out in the Institute of Informatics of the Federal
+University of Rio Grande do Sul (UFRGS) and Inria Paris. We also collaborate closely with collegues from RNP.br, IX.br and CGI.br / NIC.br.
 
 For further information please contact us.
 </p><br>
-{% for p_item in site.data.people %}
+<h2 class="font-size-h3 t10">Coordenadores do Projeto</h2>
+{% for p_item in site.data.teachers %}
     <div class="row">
           <img src="{{ p_item.photo_url }}" class="alignleft" alt="{{ p_item.name }}">
           <b>{{ p_item.name }}</b><br>
@@ -19,12 +20,33 @@ For further information please contact us.
     </div>
 {% endfor %}
 <br>
-<h2 class="font-size-h3 t10">Collaborators</h2>
+<h2 class="font-size-h3 t10">Assistentes</h2>
+{% for p_item in site.data.students %}
+    <div class="row">
+          <img src="{{ p_item.photo_url }}" class="alignleft" alt="{{ p_item.name }}">
+          <b>{{ p_item.name }}</b><br>
+          {{ p_item.role }}<br>
+          {{ p_item.email }}<br>
+          <a href="{{ p_item.url }}" target="_blank" title="{{ p_item.name }}">{{ p_item.url }}</a><br>
+        <br>
+    </div>
+{% endfor %}
+<br>
+<h2 class="font-size-h3 t10">Colaboradores</h2>
 <div>
   <b>Leandro Márcio Bertholdo (aka BERTHOLDO, L. M.)</b><br>
-  Technical Coordinator at PoP-RS and IX.br<br>
+  Coordenador Técnico PoP-RS e RS-IX (IX.br)<br>
   berthold@pop-rs.rnp.br<br>
   <a href="http://pop-rs.rnp.br/~berthold/" target="_blank" title="Leandro Márcio Bertholdo">http://pop-rs.rnp.br/~berthold/</a><br><br>
   <a href="http://ix.br/" alt="IX.br"><img src="{{ site.urlimg }}ixbr_logo.png" style="float: left; margin: 0;"></a>
   <a href="http://www.cgi.br/" alt="CGI.br and NIC.br"><img src="{{ site.urlimg }}CGI_NICbr.png" style="float: left; margin: 4px 0 0 0;"></a>
+</div>
+<br><br><br>
+<h2 class="font-size-h3 t10">Coordenação de P&D RNP</h2>
+<div>
+  <b>Alex Moura (Gerente de Pesquisa e Desenvolvimento)</b><br>
+  alex@rnp.br<br>
+  <b>Marcos Felipe Schwarz (Coordenador de P&D)</b><br>
+  marcos.schwarz@rnp.br<br>
+  <a href="http://rnp.br/" alt="RNP.br"><img src="{{ site.urlimg }}rnp_logo.jpg" style="float: left; margin: 4px 0 0 8px;"></a>
 </div>
