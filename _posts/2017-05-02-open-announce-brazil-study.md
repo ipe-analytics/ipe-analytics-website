@@ -5,12 +5,12 @@ layout: page
 #
 subheadline: "Pesquisa em andamento"
 title: "Caracterizando a Conectividade do Brasil"
-teaser: "Muller, L. et al. lead a large scale study of the entire ecosystem of IXPs in Brazil going towards ASs level information."
+teaser: "Muller, L. et al. lidera um estudo de medições de larga escala a respeito do ecossistema de IXPs no Brasil."
 
 categories:
-  - Measurement
+  - Medições
 tags:
-  - brazil
+  - brasil
 #
 # Styling
 #
@@ -22,4 +22,4 @@ image:
   url: ""
 ---
 
-The peering ecosystem of Brazil (IX.br) has his own characteristics when analyzed in perspective to regions like the United States and Europe. The IX.br has become worldwide the largest national set of public Internet eXchange Points (IXP) and shows a growing number of internationally connected Autonomous Systems (AS). Despite its considerable success, we have little understanding of its deployments and performance. Motivated by recent developments in connectivity to the country and the growing commercial interest from Internet Service Providers (ISPs) and Application Providers (App Providers) to interconnect, we profile Brazil’s network starting from the IXPs going towards ASs level information. Through extensive measurements, we reveal Brazil’s footprint, its traffic patterns, volumes, external connections, and the treatment given to international traffic going to and from the country. This study is a fundamental part of our project Networks@Scale which includes IXPs, ISPs, app providers and the end-users, exposing the dynamic aspects and evolution of Internet online service delivery chain ecosystem.
+O ecossistema de pontos de troca de tráfego do Brasil, isto é, o IX.br apresenta características próprias quando colocado sob análise em perspectiva a regiões como Estados Unidos e Europa. O IX.br se tornou mundialmente o maior conjunto nacional público de Internet eXchange Points (IXP) e, segue mostrando um crescente número de Sistemas Autônomos (ASes) internacionais interesados em fazer parte do sistema. Entretanto, apesar do considerável sucesso, a comunidade de redes possui pouco conhecimento de como esta infraestrutura está organizada e, menos ainda de seu desempenho. Motivado por recentes investimentos no aprimoramentos sobre a infraestrutura existente e pela posição de destaque comercial que o ecossistema Brasileiro foi colocado nós iniciamos em 2016 um estudo de larga escala sobre a infraestrutura de rede do país.

@@ -6,7 +6,7 @@ show_meta: false
 #
 subheadline: "IX Forum 10 Brasil, 2016"
 title: "Análise	de abrangência dos IXs no	Brasil"
-teaser: "O doutorando Muller, L. apresentou no IX Forum seu estudo em andamento a respeito do ecosistema de Internet Exchange Points (IXPs) do Brasil. A apresentacão ocorreu durante a 6&deg; edição da Semana da Infraestrutura da Internet no Brasil, onde CGI.br e NIC.br organizam eventos importantes para a discussão de questões importantes diretamente ligadas a infraestrutura da Internet no Brasil."
+teaser: "O doutorando Muller, L. apresentou no IX Forum seu estudo em andamento a respeito do ecosistema de Internet Exchange Points (IXPs) do Brasil. A apresentacão ocorreu durante a sexta edição da Semana da Infraestrutura da Internet no Brasil, onde CGI.br e NIC.br organizam eventos importantes para a discussão de questões importantes diretamente ligadas a infraestrutura da Internet no Brasil."
 categories:
   - Medições
 tags:
