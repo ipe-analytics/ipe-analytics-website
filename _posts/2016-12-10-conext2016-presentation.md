@@ -4,11 +4,11 @@ layout: page
 # Content
 #
 subheadline: "ACM CoNEXT 2016"
-title: "INF/UFRGS sends two students to the CoNEXT 2016 Conference"
-teaser: "Students to present new papers at the conference."
+title: "INF/UFRGS enviou dois alunos para o CoNEXT 2016"
+teaser: "Alunos foram apresentar artigos aprovados na conferência."
 
 categories:
-  - Conferences
+  - Conferências
 tags:
   - conext
 #
@@ -22,6 +22,6 @@ image:
   url: ""
 ---
 
-INF/UFRGS researchers Oliveira R. and Marcos, P. will present two new papers at the Student
-Workshop of the ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT) at Irvine, CA, USA.
-ACM CoNEXT is one of the top conferences in networking.
+Os doutorandos Oliveira R. e Marcos, P. do INF/UFRGS apresentaram dois artigos relacionado a seus temas de Pesquisa
+no Student Workshop do ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT) que ocorreu em Irvine, CA, USA.
+ACM CoNEXT é uma conferência de grande destaque na área de redes de computadores.

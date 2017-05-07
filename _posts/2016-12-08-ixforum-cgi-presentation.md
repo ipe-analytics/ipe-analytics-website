@@ -4,13 +4,13 @@ show_meta: false
 #
 # Content
 #
-subheadline: "IX Forum 10 Brazil, 2016"
-title: "Coverage Analysis at IXPs in Brazil"
-teaser: "Muller, L. gave a IX Forum presentation about the ongoing study of the entire ecosystem of IXPs in Brazil. This was during the 6th Brazilian Internet Infrastructure Week, where CGI.br and NIC.br host important events that discuss issues directly connected to the Internet infrastructure in Brazil."
+subheadline: "IX Forum 10 Brasil, 2016"
+title: "Análise	de abrangência dos IXs no	Brasil"
+teaser: "O doutorando Muller, L. apresentou no IX Forum seu estudo em andamento a respeito do ecosistema de Internet Exchange Points (IXPs) do Brasil. A apresentacão ocorreu durante a 6&deg; edição da Semana da Infraestrutura da Internet no Brasil, onde CGI.br e NIC.br organizam eventos importantes para a discussão de questões importantes diretamente ligadas a infraestrutura da Internet no Brasil."
 categories:
-  - Measurement
+  - Medições
 tags:
-  - brazil
+  - brasil
   - ixforum
   - CGI.br
 
