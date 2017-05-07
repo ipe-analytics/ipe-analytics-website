@@ -38,7 +38,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/networks-at-scale-ufrgs
+  url: https://tinyletter.com/ipe-analytics
   text: Me mantenha informado sobre as novidades ›
   style: alert
 permalink: /index.html
