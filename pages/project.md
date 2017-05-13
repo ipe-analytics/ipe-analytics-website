@@ -4,6 +4,7 @@ header:
 permalink: /project/
 layout: page
 title: "Resumo"
+subheadline: "Projeto"
 ---
 
 {% include _project_description.html %}
