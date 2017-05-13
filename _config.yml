@@ -18,7 +18,7 @@ author: lfmuller
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ipe-analytics.github.io'
+url: 'http://www.inf.ufrgs.br/ipeanalytics'
 baseurl: ''
 
 # This URL points directly to the images directory making
@@ -27,7 +27,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ipe-analytics.github.io/images/'
+urlimg: 'http://www.inf.ufrgs.br/ipeanalytics/images/'
 
 
 # Logo size is 600x80 pixels
