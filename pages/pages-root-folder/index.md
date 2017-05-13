@@ -14,17 +14,17 @@ overview:
 
 widget1:
   title: "Projeto"
-  url: 'https://ipe-analytics.github.io/project/'
+  url: 'http://www.inf.ufrgs.br/ipeanalytics/project/'
   image: '/images/logo-projeto-site_v2.png'
   text: 'Apresentação do contexto, motivação e objetivos.'
 widget2:
   title: "Equipe"
-  url: 'https://ipe-analytics.github.io/people/'
+  url: 'http://www.inf.ufrgs.br/ipeanalytics/people/'
   image: '/images/logo-equipe_recursos-site2.png'
   text: 'Organizações e pessoas envolvidas no projeto.'
 widget3:
   title: "Pesquisa"
-  url: 'https://ipe-analytics.github.io/publications/'
+  url: 'http://www.inf.ufrgs.br/ipeanalytics/publications/'
   image: '/images/logo-pesquisa-site.png'
   text: 'Pesquisa Científica desenvolvida por trás do projeto.'
 #
