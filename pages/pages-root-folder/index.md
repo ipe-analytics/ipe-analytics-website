@@ -9,8 +9,8 @@ header:
   image_fullwidth: main-header_v2.jpg
 
 overview:
-  title: Visão Geral
-  text: O Grupo de Trabalho (GT) IPÊ Analytics propõe um sistema para analisar os dados coletados pelos monitoramentos existentes na rede IPÊ usando técnicas de Análise de Grandes Volumes de Dados (Big Data Analytics). O principal objetivo é fornecer informações mais valiosas para amparar a gerência de operações, a engenharia de tráfego e o planejamento da rede.
+  title: Overview
+  text: The Work Group (GT) IPÊ Analytics proposes a system which examines collected data of current monitoring tools in the IPÊ network applying Big Data Analytics techniques. The primary goal is to provide valuable information to assist operational management, traffic engineering, and network planning.
 
 widget1:
   title: "Project"
@@ -39,7 +39,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/ipe-analytics
-  text: Me mantenha informado sobre as novidades ›
+  text: Keep me updated with news ›
   style: alert
 permalink: /index.html
 ---
