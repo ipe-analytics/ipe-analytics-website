@@ -3,12 +3,12 @@ layout: page
 #
 # Content
 #
-subheadline: "Pesquisa em andamento"
-title: "Caracterizando a Conectividade do Brasil"
-teaser: "Muller, L. et al. lidera um estudo de medições de larga escala a respeito do ecossistema de IXPs no Brasil."
+subheadline: "Research in progress"
+title: "Characterizing Brazil's connectivity"
+teaser: "Muller, L. et al. leads a large-scale monitoring study of the Brazilian IXP ecosystem."
 
 categories:
-  - Medições
+  - Measurements
 tags:
   - brasil
 #
@@ -17,9 +17,9 @@ tags:
 image:
   header: ""
   thumb: "brazil-study-thumb.png"
-  homepage: "special-post-homepage-ptbr.png"
+  homepage: "special-post-homepage.png"
   caption: ""
   url: ""
 ---
 
-O ecossistema de pontos de troca de tráfego do Brasil, isto é, o IX.br apresenta características próprias quando colocado sob análise em perspectiva a regiões como Estados Unidos e Europa. O IX.br tornou-se mundialmente o maior conjunto público nacional de Internet eXchange Points (IXP) e, segue mostrando um crescente número de Sistemas Autônomos (ASes) internacionais interessados em fazer parte do sistema. Entretanto, apesar do considerável sucesso, a comunidade de redes possui pouco conhecimento de como esta infraestrutura está organizada e, menos ainda de seu desempenho. Motivado por recentes investimentos no aprimoramento da infraestrutura existente e pela posição de destaque no âmbito internacional que o ecossistema Brasileiro foi colocado nós iniciamos, há mais de um ano, um estudo de medições de larga escala sobre a infraestrutura de rede do país.
+The ecosystem of Internet exchange points of Brazil, i.e., IX.br, presents unique characteristics when placed under analysis in perspective to regions like the USA and Europe. The IX.br has become the largest set of national public Internet eXchange Points (IXP) and, continues to present an increasing number of international autonomous systems (ASes) interested in being part of the infrastructure. Despite the considerable success, the network community has limited knowledge of how the structure is organized and even less about its performance. Motivated by recent investments in the improvement of existing structure and by the position of success in the international scope, we initiated, over a year ago, a large-scale measurement study about the Brazilian network infrastructure.
