@@ -2,10 +2,10 @@
 layout: page
 header:
   image_fullwidth: main-header.jpg
-title: "Contato"
+title: "Contact"
 meta_title: "Entre em contato com nossa equipe"
 subheadline: ""
-teaser: "Universidade Federal do Rio Grande do Sul, Instituto de Informática"
+teaser: "Federal University of Rio Grande do Sul, Institute of Informatics"
 
 permalink: "/contact/"
 ---

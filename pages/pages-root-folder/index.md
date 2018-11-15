@@ -13,20 +13,20 @@ overview:
   text: O Grupo de Trabalho (GT) IPÊ Analytics propõe um sistema para analisar os dados coletados pelos monitoramentos existentes na rede IPÊ usando técnicas de Análise de Grandes Volumes de Dados (Big Data Analytics). O principal objetivo é fornecer informações mais valiosas para amparar a gerência de operações, a engenharia de tráfego e o planejamento da rede.
 
 widget1:
-  title: "Projeto"
+  title: "Project"
   url: 'http://www.inf.ufrgs.br/ipeanalytics/project/'
   image: '/images/logo-projeto-site_v2.png'
-  text: 'Apresentação do contexto, motivação e objetivos.'
+  text: 'Introduction, motivation and primary goals.'
 widget2:
-  title: "Equipe"
+  title: "Team"
   url: 'http://www.inf.ufrgs.br/ipeanalytics/people/'
   image: '/images/logo-equipe_recursos-site2.png'
-  text: 'Organizações e pessoas envolvidas no projeto.'
+  text: 'Organizations and people associated with the project.'
 widget3:
-  title: "Pesquisa"
+  title: "Research"
   url: 'http://www.inf.ufrgs.br/ipeanalytics/publications/'
   image: '/images/logo-pesquisa-site.png'
-  text: 'Pesquisa Científica desenvolvida por trás do projeto.'
+  text: 'Scientific Research developed adjacent to the project.'
 #
 # Use the call for action to show a button on the frontpage
 #
