@@ -5,19 +5,19 @@
   url: "/"
   side: left
 
-- title: "Projeto"
+- title: "Project"
   url: "/project/"
   side: left
 
-- title: "Equipe"
+- title: "Team"
   url: "/people/"
   side: left
 
-- title: "Pesquisa"
+- title: "Research"
   url: "/publications/"
   side: left
 
-- title: "Recursos"
+- title: "Resources"
   url: "/resources/"
   side: left
 
@@ -29,9 +29,9 @@
   url: "/blog/"
   side: right
   dropdown:
-  - title: "Arquivo Blog"
+  - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Contato"
+- title: "Contact"
   url: "/contact/"
   side: right
