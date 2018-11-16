@@ -1,54 +1,55 @@
 <p align="justify">
-A adoção de técnicas de monitoramento de redes culminou em ampla disponibilidade de dados brutos.
-Entretanto, pouco avanço se obteve em termos de análise dos mesmos em profundidade e inferências
-sobre o comportamento da rede, por causa da escala e complexidade das redes de longa distância e
-o grande volume de dados de distribuídos. Este GT investiga métodos para analisar os dados coletados
-pelos monitoramentos da rede IPÊ resultando em um sistema para fornecer inferências que auxiliem
-os processos de operação, engenharia de tráfego e planejamento.
+The adoption of network monitoring techniques has culminated in a broad availability of raw data. 
+However, giving the large-scale and complexity of long-distance networks and the massive volume of 
+distributed data, minor progress has been achieved regarding the in-depth analysis of this collected 
+data and inferences about the network behavior. This Work Group investigates methods to analyze the 
+data measured by the existing monitoring tools present in the IPÊ network. 
+The result will be a system that provides inferences to aid the process of operation, traffic engineering and network planning.
 </p>
 
-<p><b>Contexto</b></p>
+<p><b>Context</b></p>
 <p align="justify">
-Diversas técnicas, padrões e ferramentas de monitoramento de redes foram desenvolvidas no passado
-e vêm amadurecendo de forma apoiar as necessidades de operação. Seu uso permitiu coletar e armazenar
-um grande volume de dados brutos. Entretanto, houve pouco avanço na análise desses dados em profundidade
-e na geração de inferências sobre o comportamento da rede.
+Several monitoring techniques, patterns, and tools were developed in the past, 
+and all have been maturing in a way to support the operational needs of networks. 
+Such approaches allowed the obtaining and the storing of a massive volume of raw data. 
+However, minor progress was obtained regarding the in-depth analysis of this collected data 
+and in the creation of inferences about the network behavior.
 </p>
 
-<p><b>Motivação</b></p>
+<p><b>Motivation</b></p>
 <p align="justify">
-A escala e complexidade das redes atuais torna difícil (ou até intratável) a tarefa de analisar grandes
-volumes de dados com as ferramentas atuais. Além disso, a heterogeneidade dos dados brutos fornecidos –
-seja por equipamentos com capacidades de medição distintas, variação na granularidade das informações
-coletadas ou medições isoladas – dificulta a padronização da análise dos mesmos.
+The scale and complexity of current networks make the task of analyzing large volumes of data with the 
+existing tools hard (or even intractable). Besides, the heterogeneity of the raw data - 
+caused by equipment with diverse measurement capabilities, variations regarding the granularity of collected 
+information or isolated measurements - makes it difficult to standardize the analysis of the data.
 </p>
 
-<p><b>Proposta</b></p>
+<p><b>Proposal</b></p>
 <p align="justify">
-Este GT desenvolve um sistema para analisar os dados coletados pelos monitoramentos existentes na rede
-IPÊ usando técnicas de Análise de Grandes Volumes de Dados (Big Data Analytics). O objetivo é fornecer
-diversas informações relevantes para amparar a gerência de operações, a engenharia de tráfego e o
-planejamento da rede. Para tanto, o sistema proverá correlações e categorizações automatizadas, perfis
-de uso personalizados e sobre diferentes aspectos, filtragem e manipulação interativas, análise de
-causa-raiz para eventos na rede, estatísticas sobre a eficiência da engenharia de tráfego e possibilidade de
-análise do impacto de mudanças.
+This Work Group is developing a system to analyze the data collected by the existing monitoring tools 
+present in the IPÊ network and applying Big Data Analytics techniques to offer several relevant information 
+to aid the operational management, traffic engineering, and network planning. The system will provide 
+automatized correlations and categorizations, personalized user profiles based on different aspects, 
+interactive filtering and manipulation, root-cause analysis to network events, statistics over traffic 
+engineering efficiency and the ability to analyze the impact of changes in the network.
 </p>
 
 <img src="{{ site.urlimg }}collage-abstract-ipeanalytics.png"><br>
 
-<p align="center">Visão Geral da Proposta do Projeto.</p>
+<p align="center">Project Overview.</p>
 
-<p><b>Objetivos Específicos</b></p>
+<p><b>Specific Goals</b></p>
 <p align="justify">
-1) <b>Mapeamento das Informações</b> fornecidas pelas ferramentas de monitoramento da rede IPÊ. Esse objetivo
-possibilita entender quais são todos os dados brutos passíveis de análise e obter acesso a eles (ou subconjunto disponível).<br>
-2) <b>Estudo e Processamento dos Dados</b> para o desenvolvimento das estratégias de análise de grande volume
-de informações, visando a extração de correlações e inferências. Tal atividade é composta por três partes essenciais:
-(a) identificação de inferências e correlações disponíveis, (b) exploração de técnicas de processamento de grandes
-volumes de dados, e (c) análise de estruturas de manipulação e armazenamento de dados.<br>
-3) <b>Inclusão de Interatividade na Análise dos Dados</b> para aumentar o controle dos operadores sobre dados e análises e
-facilitar investigações. Será incluso suporte a consultas personalizadas com filtros avançados e a manipulação da visualização dos resultados.<br>
-4) <b>Revisitação das Coletas Realizadas</b>, com o objetivo de gerar novas inferências. Essa tarefa é viabilizada após a
-execução dos procedimentos anteriores. Neste ponto serão consideradas métricas que agregam grande valor e que
-possam ser incluídas com relativa facilidade pelas equipes responsáveis pelas atividades de monitoramento da infraestrutura.
+1) <b>Mapping the information</b> collected by the monitoring tools present in the IPÊ network, allowing the understanding of which raw data are suitable for analysis. <br>
+
+2) <b>Study and Process</b> the data to develop strategies to analyze the big volume of data and extract correlations and inferences. 
+This step is composed of three different tasks: (a) identification of possible correlations and assumptions, 
+(b) exploration of big data analytics techniques, and (c) analysis of tools for manipulating and storing data.<br>
+
+3) <b>Enable interactive data analysis</b> to increase the control over the data analysis, and facilitate investigations. 
+Support will be included for personalized queries with user-defined filters and enhanced manipulation of the data visualization system.<br>
+
+4) <b>Review the collected data</b> to generate new inferences. This task is viable after having done the previous tasks.
+At this point, new metrics that can add value and be easily included by the infrastructure monitoring operators will be considered.
+
 </p>
