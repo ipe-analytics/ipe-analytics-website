@@ -24,6 +24,12 @@ Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
 ## Deploy
 Go to project folder and run:
 
+### Dev
 ```
 jekyll serve --config _config.yml,_config_dev.yml
+```
+
+### Build
+```
+jekyll build --config _config.yml
 ```
