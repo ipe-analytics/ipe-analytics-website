@@ -19,3 +19,11 @@ Standards: HTML5, CSS3
 Software: Atom, Chrome/Safari, Ruby, Jekyll, Git, Gulp.js, Sass
 
 Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
+
+
+## Deploy
+Go to project folder and run:
+
+```
+jekyll serve --config _config.yml,_config_dev.yml
+```
