@@ -28,8 +28,19 @@ Further more, our team has strong interaction and cooperation with RNP.br, IX.br
           {{ p_item.email }}<br>
           <a href="{{ p_item.url }}" target="_blank" title="{{ p_item.name }}">{{ p_item.url }}</a><br>
         <br>
-    </div>
+    </div>        
 {% endfor %}
+<br>
+<h2 class="font-size-h3 t10">Collaborators</h2>
+<div>
+{% for p_item in site.data.collaborators %}
+          <b>{{ p_item.name }}</b><br>
+          {{ p_item.role }}<br>
+          {{ p_item.email }}<br>
+          <a href="{{ p_item.url }}" target="_blank" title="{{ p_item.name }}">{{ p_item.url }}</a><br>
+        <br>
+{% endfor %}
+</div>
 <br>
 <h2 class="font-size-h3 t10">Contributors</h2>
 <div>
